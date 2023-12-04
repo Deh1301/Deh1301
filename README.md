@@ -1,5 +1,8 @@
 ### Ola mundo sou o André este é o meu Git-Hub😊
 
+Atualmente cursando Analise e Desenvolvimento de Sistemas. Com conhecimento em HTML e CSS e Java Script. 
+Futuro Desenvolvedor!!!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-calixto-ba12ab255/)
 
 ![Deh1301 GitHub stats](https://github-readme-stats.vercel.app/api?username=Deh1301&show_icons=true&theme=dracula)
