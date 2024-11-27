@@ -1,6 +1,6 @@
 ### Ola mundo sou o André este é o meu Git-Hub😊
 
-Atualmente cursando Analise e Desenvolvimento de Sistemas. Com conhecimento em HTML e CSS e Java Script,Node Js e C#. 
+Atualmente cursando Analise e Desenvolvimento de Sistemas. Com conhecimento em HTML,CSS,Java Script,Node Js e C#. 
 Futuro Desenvolvedor!!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-calixto-ba12ab255/)
