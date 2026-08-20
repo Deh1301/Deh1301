@@ -22,7 +22,7 @@ Infraestrutura:
 
 </div>
 <br>
-Programação:
+Conhecimentos Complementares:
 
 <div style="display: inline_block"><br/>
 
