@@ -4,7 +4,7 @@ Administração de Sistemas | Linux | Redes | Servidores
 
 🎯 Focado em Administração de Sistemas e Servidores
 
-Infraestrutura
+Infraestrutura:
 
 <div style="display: inline_block"><br/>
 
@@ -21,8 +21,8 @@ Infraestrutura
 <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 </div>
-
-Programação
+<br>
+Programação:
 
 <div style="display: inline_block"><br/>
 
